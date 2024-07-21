@@ -399,7 +399,7 @@ header nav a{
 @media screen and (max-width: 767px) {
     /*mobil*/
     .arrows{
-        botom: 70px;
+        botom: 40px;
     }
     .carousel .list .item{
         width: 100%;
